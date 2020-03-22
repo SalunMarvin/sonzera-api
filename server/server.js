@@ -26,8 +26,8 @@ app.use(function (req, res, next) {
     'http://sonzera.mus.br',
     'https://www.sonzera.mus.br',
     'http://www.sonzera.mus.br',
-    'https://sonzera.netlify.com/',
-    'http://sonzera.netlify.com/',
+    'https://sonzera.netlify.com',
+    'http://sonzera.netlify.com',
   ];
   let origin = req.headers.origin;
   if(allowedOrigins.indexOf(origin) > -1){
