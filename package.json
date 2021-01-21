@@ -23,7 +23,7 @@
     "mongoose": "^5.1.5",
     "mongoose-unique-validator": "^2.0.1",
     "slugify-mongoose": "^1.0.2",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "ws": "^6.2.1"
   },
   "devDependencies": {
